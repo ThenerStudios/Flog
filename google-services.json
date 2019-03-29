@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "510181769243",
+    "firebase_url": "https://flog-47273.firebaseio.com",
+    "project_id": "flog-47273",
+    "storage_bucket": "flog-47273.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510181769243:android:60b5f7feff60181a",
+        "android_client_info": {
+          "package_name": "com.thenerstudios.flog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510181769243-c707unanqav4jml467if17eh0ghhcuu8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thenerstudios.flog",
+            "certificate_hash": "26fc521475b709ac232a7422d26e319500244486"
+          }
+        },
+        {
+          "client_id": "510181769243-mf37lejnsbike5gubsn6k668limnp8je.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdewDu5-C3GZ8ryG5mKAh3vkbHn3JGn8E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510181769243-mf37lejnsbike5gubsn6k668limnp8je.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

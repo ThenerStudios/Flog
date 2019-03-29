@@ -1,6 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#D81B60</color>
+
+    <!-- =============================================================================== -->
+    <!-- Seduction Flog colors -->
+    <!-- =============================================================================== -->
+    <!--<color name="colorPrimary">#008577</color>-->
+    <!--<color name="colorPrimaryDark">#00574B</color>-->
+    <!--<color name="colorAccent">#D81B60</color>-->
+
+    <color name="colorPrimary">#062633</color>
+    <color name="colorPrimaryDark">#041820</color> #0c575e
+    <color name="colorAccent">#2d3c4b</color>
+    <color name="white">#ffffff</color>
+    <color name="TransparentWhite">#60ffffff</color>
+    <color name="Toolbar">#30008577</color>
+    <color name="Card">#99000000</color>
+    <color name="RecyclerViewTitle">#05757E</color>
+
+    <!-- =============================================================================== -->
+    <!-- Daylight Walker colors -->
+    <!-- =============================================================================== -->
+
+    <color name="colorPrimaryDw">#ff9c42</color>
+    <color name="colorPrimaryDarkDw">#fa881e</color>
+    <color name="colorAccentDw">#0a92b2</color>
+    <color name="Black">#000000</color>
+    <color name="TransparentBlack">#80000000</color>
+    <color name="TransparentGray">#708b8b8b</color>
+
+    <!-- =============================================================================== -->
+    <!-- Dark knight colors -->
+    <!-- =============================================================================== -->
+
+    <color name="colorPrimaryDk">#33343b</color>
+    <color name="colorPrimaryDarkDk">#27282d</color>
+    <color name="colorAccentDk">#ff9c42</color>
+    <color name="whiteDk">#ffffff</color>
+    <color name="TransparentWhiteDk">#80ffffff</color>
+
+
+
+
+
+
 </resources>

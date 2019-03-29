@@ -1,3 +1,40 @@
 <resources>
     <string name="app_name">Flog</string>
+    <!--<String name="APIKey">AIzaSyA6unTugLq8dSpnysEZRG8xKzJaVfZjSVk</String>-->
+
+    <string name="todo">TODO</string>
+    <string name="which_blog_are_you_interested_in">Which Blog Are You Interested In ?</string>
+    <string name="fashion">fashion</string>
+    <string name="food">food</string>
+    <string name="welcome_to_flog">Welcome to Flog</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="need_new_account">Need New Account?</string>
+    <string name="bottom_home">Home</string>
+    <string name="bottom_inbox">Inbox</string>
+    <string name="bottom_notification">Notifications</string>
+    <string name="bottom_event">Events</string>
+    <string name="bottom_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="locator">Locator</string>
+    <string name="item">Item</string>
+    <string name="search">Search</string>
+    <string name="buttontext">Signing In…</string>
+    <string name="SignInButtonText">Send Verification</string>
+    <string name="WarningMessage">A Verification Code Will Be Sent to Your Phone Number</string>
+    <string name="home">Home</string>
+    <string name="inbox">Inbox</string>
+    <string name="notifications">Notifications</string>
+    <string name="events">Events</string>
+    <string name="profile">Profile</string>
+    <string name="save">Save</string>
+    <string name="location">Location</string>
+    <string name="your_name">Your Name</string>
+    <string name="hint">Enter Your Full names</string>
+    <string name="hint_email">Your Email</string>
+    <string name="Proceed">Proceed</string>
+    <string name="your_address">Your Address</string>
+    <string name="contact_no">Contact No.</string>
+    <string name="get_me_in">Get me in</string>
+    <string name="password">Password</string>
 </resources>

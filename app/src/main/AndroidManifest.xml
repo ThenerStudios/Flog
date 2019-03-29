@@ -3,8 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="com.thenerstudios.flog">
 
-    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
-    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.INTERNET" />
 
     <application
         android:allowBackup="true"
@@ -21,6 +20,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".Start" />
+        <activity
+            android:name=".Authentication.Phone_Auth"
+            tools:ignore="InnerclassSeparator" />
+        <activity android:name=".CreateUser" />
+        <activity android:name=".Login" />
+        <activity android:name=".Map"></activity>
     </application>
 
 </manifest>
